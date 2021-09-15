@@ -1,0 +1,41 @@
+.login{
+    background-color: aliceblue;
+    display: inline-grid;
+    justify-content: center;
+    margin-left: 28%;
+    margin-top: 9%;
+    width: 30em;
+    height: 50vh;
+    border: 4px solid #c0d5dc;
+    border-radius:5px ;
+    padding: 3%;
+}
+
+.login-input{
+    width: 25em;
+    height: 5vh;
+    border-radius: 5px;
+}
+
+.login-button {
+    margin-top: 4%;
+    width: 7em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c0d5dc;
+    border-radius: 10px;
+}
+
+.login-title{
+    font-family: none;
+    font-size: 2em;
+}
+.login-fields{
+    font-family: none;
+}
+.error-message {
+    color: #ed6237;
+    font-size: 15px;
+    margin: 2px 0 0;
+    text-align: center;
+  }
