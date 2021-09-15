@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the project and install the dependencies:
 
-   > \$ git clone https://github.com/jugpreet/shadi.com_assignment.git
+   > \$ git clone https://github.com/jugpreet/shadi.comAssignment
 
    > \$ cd shadi.comAssignment
 
@@ -57,4 +57,5 @@ The supported browsers is mentioned in the following field in the project's `pac
 ## Coding Style used
 
 - [React App coding style](https://www.npmjs.com/package/eslint-confi
+
 # shadi.comAssignment
